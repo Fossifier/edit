@@ -1,7 +1,7 @@
 ### What is FMHY?
 
 FMHY started in 2018 on Reddit as `r/FREEMEDIAHECKYEAH` and is now the internet's largest collection of free stuff on an independent platform. From media and games to tools, community vetting ensures that entries are safe and up to date.
-
+!!!note Not sure what to choose? Go with the first option. Entries are generally ranked best to worst.
 ***
 ### Adblocking
 
